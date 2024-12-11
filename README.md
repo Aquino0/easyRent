@@ -25,6 +25,9 @@ Certifique-se de ter instalado:
 - NPM ou Yarn.
 - MongoDB.
 
+Link Miro - https://miro.com/app/board/uXjVL8rUwLk=/?share_link_id=988089076325
+Link Jira –   https://www.figma.com/design/XiqutJTQV0bi17Bw6DHlmp/PUC?node-id=26-429&m=dev&t=9OOBOtNiRoSBPW9I-1
+
 
 ## Contato
 Em caso de dúvidas ou sugestões, entre em contato:
